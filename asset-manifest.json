@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Paymate_Assignment/static/css/main.d4efe56a.chunk.css",
+    "main.js": "/Paymate_Assignment/static/js/main.a4a05474.chunk.js",
+    "main.js.map": "/Paymate_Assignment/static/js/main.a4a05474.chunk.js.map",
+    "runtime-main.js": "/Paymate_Assignment/static/js/runtime-main.c34a6706.js",
+    "runtime-main.js.map": "/Paymate_Assignment/static/js/runtime-main.c34a6706.js.map",
+    "static/js/2.4d6cb87f.chunk.js": "/Paymate_Assignment/static/js/2.4d6cb87f.chunk.js",
+    "static/js/2.4d6cb87f.chunk.js.map": "/Paymate_Assignment/static/js/2.4d6cb87f.chunk.js.map",
+    "index.html": "/Paymate_Assignment/index.html",
+    "static/css/main.d4efe56a.chunk.css.map": "/Paymate_Assignment/static/css/main.d4efe56a.chunk.css.map",
+    "static/js/2.4d6cb87f.chunk.js.LICENSE.txt": "/Paymate_Assignment/static/js/2.4d6cb87f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c34a6706.js",
+    "static/js/2.4d6cb87f.chunk.js",
+    "static/css/main.d4efe56a.chunk.css",
+    "static/js/main.a4a05474.chunk.js"
+  ]
+}
